@@ -121,9 +121,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/HBMods-OFC/HBWABot-Mz.git"
+    "url": "git+https://github.com/Mizo_Bot.git"
   },
   "bugs": {
-    "url": "https://github.com/HBMods-OFC/HBWABot-Mz/issues"
+    "url": "https://Mizo_Bot/issues"
   },
   "homepage
